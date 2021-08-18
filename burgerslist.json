@@ -1,0 +1,29 @@
+[
+  {
+    "id": 111,
+    "name": "J.S. Burgers Cafe",
+    "imageUrl": "https://i.imgur.com/n7Rt4Dm.png",
+    "rating": 4.8,
+    "review": "Great variety!",
+    "lat": 35.688802200932756,
+    "lng": 139.70254707075898
+  },
+  {
+    "id": 112,
+    "name": "burger kitchen CHATTY CHATTY",
+    "imageUrl": "https://i.imgur.com/kbheU3R.png",
+    "rating": 4.7,
+    "review": "Unique taste!",
+    "lat": 35.68923526767102,
+    "lng": 139.71308617671428
+  },
+  {
+    "id": 113,
+    "name": "Shogun Burger",
+    "imageUrl": "https://i.imgur.com/Qbe9Z74.png",
+    "rating": 4.4,
+    "review": "Good location!",
+    "lat": 35.694881032817555,
+    "lng": 139.70257191402592
+  }
+]
